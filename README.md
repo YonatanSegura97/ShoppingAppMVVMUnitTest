@@ -19,7 +19,7 @@ The project uses the MVVM + Repository design pattern, so prior knowledge of the
 
 Generate your API_KEY in the site Pixabay api
 
-Search the archive gradle.properties and add your ApiKey from Pixabay
+Build proyect to create the archive gradle.properties and add your ApiKey from Pixabay
 
 ```gradle.properties
 API_KEY_PIXA_BAY = "YOUR_API_KEY"
