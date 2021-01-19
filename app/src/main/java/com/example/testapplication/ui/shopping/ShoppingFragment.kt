@@ -45,7 +45,6 @@ class ShoppingFragment : Fragment(R.layout.fragment_shopping) {
                     ShoppingFragmentDirections.actionShoppingFragmentToAddShoppingItemFragment()
             )
         }
-
     }
 
     private val itemTouchCallback = object : ItemTouchHelper.SimpleCallback(
