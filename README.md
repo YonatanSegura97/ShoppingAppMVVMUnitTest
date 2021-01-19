@@ -1,6 +1,6 @@
 # ShoppingAppMVVMUnitTest
-Proyect enfoqued to Unit Test from MVVM
 
+Project focused on Unit Test in MVVM pattern in TDD implementation practice
 
 ## Information
 
