@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">TestApplication</string>
+    <string name="repository_unknown_error">An unknown error occured</string>
+</resources>
