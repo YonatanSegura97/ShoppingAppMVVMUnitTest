@@ -11,6 +11,14 @@ Kakao test article (https://www.raywenderlich.com/1505688-ui-testing-with-kakao-
 
 ## Usage
 
+ - Import project or download it via zip or Git Client
+ - Open project with Android Studio and check gradle to version 4.0+
+ - Verify updated Android SDK AndroidX is already used throughout the project
+
+The project uses the MVVM + Repository design pattern, so prior knowledge of the pattern is recommended to understand the complexity of the development, in addition to the use of Koin as a dependency injector.
+
+Generate your API_KEY in the site Pixabay api
+
 Search the archive gradle.properties and add your ApiKey from Pixabay
 
 ```gradle.properties
