@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0100c426d82a7f41fc51cb89066381f/jetified-kakao-2.1.0-support/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0100c426d82a7f41fc51cb89066381f/jetified-kakao-2.1.0-support/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0100c426d82a7f41fc51cb89066381f/jetified-kakao-2.1.0-support/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/292f305683a0aa5c373eb04c7a878315/jetified-kakao-2.1.0-support/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/292f305683a0aa5c373eb04c7a878315/jetified-kakao-2.1.0-support/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/292f305683a0aa5c373eb04c7a878315/jetified-kakao-2.1.0-support/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.agoda.kakao/kakao/2.1.0-support/3e7841c84dedb5866bb5e880ddbb6d7ddd638db1/kakao-2.1.0-support-javadoc.jar!/" />
